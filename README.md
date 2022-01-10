@@ -10,7 +10,9 @@ Se manejó toda la parte de interfaz gráfica haciendo uso de Imagenes, Botones,
 
 ## Librerias
   mysql-conector
+  
   jasperreports
+  
   jcMousePanel
 
 
