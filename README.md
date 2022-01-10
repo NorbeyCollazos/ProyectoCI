@@ -9,9 +9,9 @@ Aplicación de escritorio desarrollada en Java mediante el IDE NetBeans 8.2
 Se manejó toda la parte de interfaz gráfica haciendo uso de Imagenes, Botones, Radio buttons, labels, textfield, tablas, base de datos MySql, reportes con jasper
 
 ## Librerias
-mysql-conector
-jasperreports
-jcMousePanel
+  mysql-conector
+  jasperreports
+  jcMousePanel
 
 
 
